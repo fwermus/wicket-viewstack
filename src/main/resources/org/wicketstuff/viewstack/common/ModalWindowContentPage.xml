@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"> 
+<properties> 
+	<entry key="modal.inscripcion.cancelar.titulo">Está por cancelar la inscripción</entry>
+	<entry key="modal.inscripcion.cancelar.contenido">
+		<![CDATA[
+			Cancelando la inscripción, no se jugará el partido en esta fecha.
+			<br/>
+		]]>
+	</entry>
+	
+	<entry key="modal.inscripcion.recuperar.titulo">Recuperar la inscripción</entry>
+	<entry key="modal.inscripcion.recuperar.contenido">
+		<![CDATA[
+			Podrá contiuar con la inscripción al partido.
+			<br/>
+			Se enviará un mail a los suscriptos al partido para indicar que pueden inscribirse nuevamente.
+		]]>
+	</entry>
+
+	<entry key="modal.inscripcion.inscribirse.titulo">Inscribirse al evento</entry>
+	<entry key="modal.inscripcion.inscribirse.contenido">
+		<![CDATA[
+			Se está por inscribir al evento deportivo.
+			<br/>
+			Se enviará un mail a los suscriptos  para indicar que participará en el partido.
+		]]>
+	</entry>
+	
+	<entry key="modal.inscripcion.confirmar.titulo">Esta por confirmar el partido</entry>
+	<entry key="modal.inscripcion.confirmar.contenido">
+		<![CDATA[
+			Está por confirmar el partido.
+			<br/>
+			Recuerde que si confirma manualmente el partido se ignorarán todas las reglas que aplicó a las inscripciones.
+			<br/>
+			Se enviará un mail a los inscriptos para indicar que está confirmado el partido.
+		]]>
+	</entry>
+	
+	<entry key="modal.inscripcion.noJugar.titulo">No participar en la actividad</entry>
+	<entry key="modal.inscripcion.noJugar.contenido">
+		<![CDATA[
+			No quiero participar en el partido
+			<br/>
+			Quiere decirle a todos los suscriptos que no participará en esta fecha en el partido que se está organizando.
+			<br/>
+			Se enviará un mail a los inscriptos para indicar que está confirmado el partido.
+		]]>
+	</entry>
+	<entry key="modal.relacion.fan.ser.titulo">---</entry>
+	<entry key="modal.relacion.fan.ser.contenido">
+		<![CDATA[
+			Quiero ser hincha. <br/>
+			Recibiré toda las notas al instante en el <b>Diario El Deportivo</b>.<br/>
+		]]>
+	</entry>
+	<entry key="modal.relacion.fan.noser.titulo">---</entry>
+	<entry key="modal.relacion.fan.noser.contenido">
+		<![CDATA[
+			No quiero ser hincha. <br/>
+			No recibiré más toda las notas al instante en el <b>Diario El Deportivo</b>.<br/>
+		]]>
+	</entry>
+	<entry key="modal.relacion.simpatizante.ser.titulo">---</entry>
+	<entry key="modal.relacion.simpatizante.ser.contenido">
+		<![CDATA[
+			Quiero ser simpatizante. <br/>
+			Los deportistas de misdeportes sabrán mis predilecciones deportivas.<br/>
+		]]>
+	</entry>
+	<entry key="modal.relacion.simpatizante.noser.titulo">---</entry>
+	<entry key="modal.relacion.simpatizante.noser.contenido">
+		<![CDATA[
+			No quiero ser más simpatizante. <br/>
+		]]>
+	</entry>
+	<entry key="modal.relacion.jugador.ser.titulo">---</entry>
+	<entry key="modal.relacion.jugador.ser.contenido">
+		<![CDATA[
+			Quiero formar parte del plantel. <br/>
+		]]>
+	</entry>
+	<entry key="modal.relacion.jugador.noser.titulo">---</entry>
+	<entry key="modal.relacion.jugador.noser.contenido">
+		<![CDATA[
+			No quiero ser más parte del plantel. <br/>
+		]]>
+	</entry>
+	
+	<entry key="modal.comunidad.asociarse.titulo">---</entry>
+	<entry key="modal.comunidad.asociarse.contenido">
+		<![CDATA[
+			Quiero asociarme. <br/>
+			Recibiré las últimas noticias en el <b> Diario el Deportivo </b>.<br/>
+		]]>
+	</entry>
+	<entry key="modal.comunidad.desasociarse.titulo">---</entry>
+	<entry key="modal.comunidad.desasociarse.contenido">
+		<![CDATA[
+			Quiero desasociarme. <br/>
+		]]>
+	</entry>
+	<entry key="modal.amistad.realizar.titulo">Invitación de amistad</entry>
+	<entry key="modal.amistad.realizar.contenido">
+		<![CDATA[
+			Se le enviará una invitación para que acepte su amistad
+		]]>
+	</entry>
+	<entry key="modal.amistad.terminar.titulo">Terminar amistad</entry>
+	<entry key="modal.amistad.terminar.contenido">
+		<![CDATA[
+			Está por finalizar su amistad deportiva. Está seguro? 
+		]]>
+	</entry>
+</properties>
